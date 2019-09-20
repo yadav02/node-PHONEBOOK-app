@@ -1,6 +1,6 @@
 
 #  Node.js phoneBook application add edit delete and view contact list
-A simple node.js PhoneBook app Add contact edit contact delete contect and View Contact list.
+A simple node.js PhoneBook app Add contact edit contact delete contact and View Contact list.
 
 
 ## Software Requirements
